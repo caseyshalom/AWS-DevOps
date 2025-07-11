@@ -1,0 +1,1 @@
+CodeDeploy can deploy your application on Amazon EC2 instances, Amazon Elastic Container Service (Amazon ECS) containers, Lambda functions, and even an on-premises environment. Each deployment platform requires a deployment configuration. This is a set of deployment rules and deployment success and failure conditions used by CodeDeploy during a deployment. 
